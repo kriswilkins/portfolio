@@ -1,18 +1,19 @@
 <style>
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #2c3e50;
+    color: #ecf0f1;
     line-height: 1.6;
     padding: 20px;
+    text-align: center;
 }
 
 h1, h2, h3 {
-    color: #2c3e50;
+    color: #ecf0f1;
 }
 
 a {
-    color: #2980b9;
+    color: #1abc9c;
     text-decoration: none;
 }
 
@@ -21,16 +22,18 @@ a:hover {
 }
 
 .profile-pic {
-    border-radius: 50%;
+    border-radius: 15%;
     width: 150px;
     height: 150px;
+    background-color: #1abc9c;
+    padding: 10px;
 }
 
 .project {
-    border: 1px solid #ddd;
+    border: 1px solid #34495e;
     padding: 10px;
     margin: 10px 0;
-    background-color: #fff;
+    background-color: #34495e;
     border-radius: 8px;
 }
 
@@ -98,3 +101,4 @@ If you have a blog or articles you'd like to share, include them here!
 ---
 
 Thanks for visiting my portfolio. Feel free to reach out if you have any questions or collaboration ideas!
+
